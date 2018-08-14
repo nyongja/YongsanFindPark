@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RBlindAlly", "Assembly-CSharp.csproj", "{06CB8059-05E1-7A0F-C869-D5CB3A758A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RBlindAlly", "Assembly-CSharp-Editor.csproj", "{192E4814-1CAC-743E-55DB-318B428C98B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06CB8059-05E1-7A0F-C869-D5CB3A758A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CB8059-05E1-7A0F-C869-D5CB3A758A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CB8059-05E1-7A0F-C869-D5CB3A758A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CB8059-05E1-7A0F-C869-D5CB3A758A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{192E4814-1CAC-743E-55DB-318B428C98B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192E4814-1CAC-743E-55DB-318B428C98B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192E4814-1CAC-743E-55DB-318B428C98B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192E4814-1CAC-743E-55DB-318B428C98B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
